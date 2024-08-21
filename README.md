@@ -1,3 +1,3 @@
 # Switching-PC
 Switch two Personal Computer
-Only picture
+Only picture and image
